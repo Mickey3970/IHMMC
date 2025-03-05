@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pyttsx3
+dotenv
+firebase-admin
+twilio
+pydantic
+numpy
